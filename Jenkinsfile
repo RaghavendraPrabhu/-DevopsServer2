@@ -6,7 +6,7 @@ pipeline {
           steps{
 			echo "Pulling The Dummy Code From Git Hub Repo Master......"
             dir('/var/lib/jenkins/workspace/SiddhatechDevopsJenkins/dummyservices') {
-                git branch: 'master', credentialsId: 'a12fd8b6-809b-4688-ae7e-cb4f9727984b', url: 'https://github.com/RaghavendraPrabhu/DevopsServer2.git'
+                git branch: 'main', credentialsId: 'a12fd8b6-809b-4688-ae7e-cb4f9727984b', url: 'https://github.com/RaghavendraPrabhu/DevopsServer2.git'
                 }
             }
         }
