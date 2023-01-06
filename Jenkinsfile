@@ -9,7 +9,6 @@ pipeline {
                 git branch: 'main', credentialsId: 'a12fd8b6-809b-4688-ae7e-cb4f9727984b', url: 'https://github.com/RaghavendraPrabhu/-DevopsServer2.git'
                 }
             }
-			
         }
         
         
