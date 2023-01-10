@@ -30761,7 +30761,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <ultimoCorte>4004.85</ultimoCorte>
                <fechaUltimoCorte>04/10/2018</fechaUltimoCorte>
                <balanceTransitos>.00</balanceTransitos>
-               <alias>Ahorros 2</alias>
+               <alias>Chetan</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
@@ -30780,7 +30780,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <ultimoCorte>4004.85</ultimoCorte>
                <fechaUltimoCorte>04/10/2018</fechaUltimoCorte>
                <balanceTransitos>.00</balanceTransitos>
-               <alias>Cuenta Corriente</alias>
+               <alias>Sameer</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
@@ -30799,7 +30799,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <ultimoCorte>87059.07</ultimoCorte>
                <fechaUltimoCorte>04/10/2018</fechaUltimoCorte>
                <balanceTransitos>.00</balanceTransitos>
-               <alias>Cuenta de Ahorros Común</alias>
+               <alias>Sudarshan</alias>
                <sePermiteTransaccion>0</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>JAF</relacion>
@@ -30815,7 +30815,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <moneda>DOP</moneda>
                <saldoActual>420060.26</saldoActual>
                <saldoDisponsible>39817.77</saldoDisponsible>
-               <alias>Extracrédito</alias>
+               <alias>Sandeep</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
