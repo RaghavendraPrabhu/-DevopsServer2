@@ -30723,7 +30723,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <ultimoCorte>18.82</ultimoCorte>
                <fechaUltimoCorte>04/10/2018</fechaUltimoCorte>
                <balanceTransitos>.00</balanceTransitos>
-               <alias>Raghavendra Prabhu</alias>
+               <alias>Raghavendra Savings</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
@@ -30742,7 +30742,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <ultimoCorte>18.82</ultimoCorte>
                <fechaUltimoCorte>04/10/2018</fechaUltimoCorte>
                <balanceTransitos>.00</balanceTransitos>
-               <alias>Abhishek</alias>
+               <alias>Raghavendra Current</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
@@ -30761,7 +30761,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <ultimoCorte>4004.85</ultimoCorte>
                <fechaUltimoCorte>04/10/2018</fechaUltimoCorte>
                <balanceTransitos>.00</balanceTransitos>
-               <alias>Chetan</alias>
+               <alias>Chetan Savings</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
@@ -30780,7 +30780,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <ultimoCorte>4004.85</ultimoCorte>
                <fechaUltimoCorte>04/10/2018</fechaUltimoCorte>
                <balanceTransitos>.00</balanceTransitos>
-               <alias>Sameer</alias>
+               <alias>Raghavendra Savings 1</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
@@ -30799,7 +30799,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <ultimoCorte>87059.07</ultimoCorte>
                <fechaUltimoCorte>04/10/2018</fechaUltimoCorte>
                <balanceTransitos>.00</balanceTransitos>
-               <alias>Sudarshan</alias>
+               <alias>Raghavendra Savings 2</alias>
                <sePermiteTransaccion>0</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>JAF</relacion>
@@ -30815,7 +30815,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <moneda>DOP</moneda>
                <saldoActual>420060.26</saldoActual>
                <saldoDisponsible>39817.77</saldoDisponsible>
-               <alias>Sandeep</alias>
+               <alias>Ragahvendra Loan</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
@@ -30833,7 +30833,7 @@ puede usarse para definir un plan de contingencia</xsd:documentation>
                <moneda>DOP</moneda>
                <saldoActual>3455135.54</saldoActual>
                <saldoDisponsible>.00</saldoDisponsible>
-               <alias>Préstamo Hipotecario</alias>
+               <alias>Abhishek Savings</alias>
                <sePermiteTransaccion>1</sePermiteTransaccion>
                <esProductoAdicional>0</esProductoAdicional>
                <relacion>SOW</relacion>
